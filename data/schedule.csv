@@ -1,0 +1,9 @@
+activity_id,course,instructor,student_group,required_capacity,room_id,room,room_capacity,time_slot_id,day,start,end
+IF105,Pemrograman Berorientasi Objek,Dr. Dedi,TI-B,30,A301,A3.01,30,MON-1,Senin,08:00,10:00
+IF104,Jaringan Komputer,Dr. Citra,TI-C,25,A302,A3.02,30,MON-1,Senin,08:00,10:00
+IF101,Algoritma,Dr. Andi,TI-A,35,D201,D2.01,40,MON-1,Senin,08:00,10:00
+IF106,Pengolahan Citra Digital,Dr. Budi,TI-D,38,D202,D2.02,40,MON-1,Senin,08:00,10:00
+IF102,Struktur Data,Dr. Andi,TI-B,28,A301,A3.01,30,MON-2,Senin,10:15,12:15
+IF103,Basis Data,Dr. Budi,TI-A,35,D201,D2.01,40,MON-2,Senin,10:15,12:15
+MK001,Sistem Operasi,Dr. Huawei,TI-A,30,A302,A3.02,30,A302-SEL-1,Selasa,07:00,09:30
+MK002,Android,Dr. Mansyu,TI-A,30,A301,A3.01,30,A301-RAB-1,Rabu,13:00,15:20
