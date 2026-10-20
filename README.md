@@ -46,37 +46,50 @@ This section presents the application's main workflow and output.
 
 The main menu provides access to static scheduling, dynamic scheduling, saved schedule viewing, and application exit.
 
-![Main Menu](screenshots/main-menu.png)
+<img width="290" height="127" alt="image" src="https://github.com/user-attachments/assets/adf3c2d8-ec66-4967-8132-25d108861144" />
+
+<img width="844" height="381" alt="image" src="https://github.com/user-attachments/assets/4b2ee47b-abfb-4a79-9ebe-0a2526053d9f" />
+
+
 
 ### 3.2 Dynamic Scheduling
 
 Users select a weekday, choose available classrooms, and enter course details, including time slots, course names, lecturers, student groups, and student counts. Activity IDs are generated automatically.
 
-![Dynamic Scheduling](screenshots/dynamic-scheduling.png)
+<img width="545" height="545" alt="image" src="https://github.com/user-attachments/assets/527d3a8e-8b9e-41d2-9876-70230772c769" />
+
 
 ### 3.3 Room Capacity Validation
 
 The application checks student enrollment against the selected classroom's capacity. If the number exceeds the limit, the application displays a warning and requests a valid student count.
 
-![Room Capacity Validation](screenshots/capacity-validation.png)
+<img width="569" height="171" alt="image" src="https://github.com/user-attachments/assets/11910b6f-02ec-4056-9549-da48370c266c" />
+
 
 ### 3.4 Scheduling Conflict Validation
 
 The application detects overlapping activities involving the same classroom, lecturer, or student group. Invalid submissions are rejected, and the previously saved schedule remains unchanged.
 
-![Conflict Validation](screenshots/conflict-validation.png)
+<img width="247" height="207" alt="image" src="https://github.com/user-attachments/assets/7b163a1c-4ce6-422a-a93d-85d7af77f6fb" />
+
+<img width="384" height="276" alt="image" src="https://github.com/user-attachments/assets/4d6bb53d-ac67-4b87-bb9a-5f52d7b7a789" />
+
+<img width="370" height="273" alt="image" src="https://github.com/user-attachments/assets/d0949721-b2ca-4d66-b179-d061b909feb0" />
+
 
 ### 3.5 Saved Schedule
 
 Saved activities are displayed in a structured table, grouped by weekday and ordered by classroom followed by start time.
 
-![Saved Schedule](screenshots/saved-schedule.png)
+<img width="621" height="546" alt="image" src="https://github.com/user-attachments/assets/06e2bd29-ade4-4b66-a485-05f82c77c1c6" />
+
 
 ### 3.6 CSV Schedule Storage
 
 The application stores shared schedule data in `data/schedule.csv`. Static mode also generates an export at `output/schedule-statis.csv`.
 
-![CSV Schedule Output](screenshots/csv-output.png)
+<img width="1118" height="183" alt="image" src="https://github.com/user-attachments/assets/a34e9436-6954-4703-93c4-e88859a5ebd9" />
+
 
 ## 04. Installation & Usage
 
