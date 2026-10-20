@@ -121,6 +121,7 @@ rainbow-team-scheduler/
 ├── data/
 │   └── schedule.csv
 ├── output/
+│   ├── schedule-dinamis.csv
 │   └── schedule-statis.csv
 ├── src/
 │   ├── main/
