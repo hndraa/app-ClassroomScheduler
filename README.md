@@ -71,12 +71,15 @@ The application checks student enrollment against the selected classroom's capac
 The application detects overlapping activities involving the same classroom, lecturer, or student group. Invalid submissions are rejected, and the previously saved schedule remains unchanged.
 
 `Classroom Conflict`
+
 <img width="247" height="207" alt="image" src="https://github.com/user-attachments/assets/7b163a1c-4ce6-422a-a93d-85d7af77f6fb" />
 
 `Lecturer Conflict`
+
 <img width="384" height="276" alt="image" src="https://github.com/user-attachments/assets/4d6bb53d-ac67-4b87-bb9a-5f52d7b7a789" />
 
 `Student Group Conflict`
+
 <img width="370" height="273" alt="image" src="https://github.com/user-attachments/assets/d0949721-b2ca-4d66-b179-d061b909feb0" />
 
 
