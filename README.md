@@ -156,7 +156,7 @@ git clone [YOUR_GITHUB_REPOSITORY_URL]
 **Step 2 — Navigate to the project directory**
 
 ```bash
-cd rainbow-team-scheduler
+cd app-ClassroomScheduler
 ```
 
 **Step 3 — Build the project and run tests**
